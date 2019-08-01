@@ -1,2 +1,2 @@
 # Local-IP-Address
-Find your Local Ip Address and your Computer/Host name.
+Find your Local Ip Address and your Computer/Host name in JAVA.
